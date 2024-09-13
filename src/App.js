@@ -1,6 +1,6 @@
 import './App.css';
 import Header from './header';
-import Footer from './Footer';
+import Footer from './footer';
 import Nav from './nav';
 import Card from './card';
 import 'bootstrap/dist/css/bootstrap.min.css';
