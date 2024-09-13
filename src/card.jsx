@@ -23,7 +23,7 @@ function Card(props) {
           Reports</li>
       </ul>
       <div className="d-grid">
-        <a href="#" className="btn btn-primary text-uppercase">Button</a>
+      
       </div>
     </div>
   </div>
