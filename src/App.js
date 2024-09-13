@@ -1,8 +1,8 @@
 import './App.css';
 import Header from './header';
 import Footer from './Footer';
-import Nav from './Nav';
-import Card from './Card';
+import Nav from './nav';
+import Card from './card';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
